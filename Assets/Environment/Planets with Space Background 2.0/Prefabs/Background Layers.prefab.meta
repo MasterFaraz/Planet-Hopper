@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb795467e97912642972ffaaf7bfd262
+timeCreated: 1513774118
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Background Layers.prefab
+  uploadId: 223781

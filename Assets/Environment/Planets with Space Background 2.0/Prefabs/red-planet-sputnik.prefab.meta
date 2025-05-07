@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 670ba46e718f7474dbcf7cac2f6476f9
+timeCreated: 1513761406
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/red-planet-sputnik.prefab
+  uploadId: 223781

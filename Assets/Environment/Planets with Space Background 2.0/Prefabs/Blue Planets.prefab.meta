@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4d770d2d27376c74f8db5a313f852f22
+timeCreated: 1513707199
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Blue Planets.prefab
+  uploadId: 223781

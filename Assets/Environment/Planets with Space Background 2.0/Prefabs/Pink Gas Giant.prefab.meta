@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 781554c0a345b7b40ad78441eab5e30d
+timeCreated: 1513707200
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Pink Gas Giant.prefab
+  uploadId: 223781

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 06744de7a1f94074d955cba7aba1352c
+timeCreated: 1512659373
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Scripts/Swing.cs
+  uploadId: 223781

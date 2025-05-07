@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: badcfb15c3de68c49a26c50e3fe9762f
+timeCreated: 1512890549
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Materials/Nebula Orange - Blue
+    Material.mat
+  uploadId: 223781

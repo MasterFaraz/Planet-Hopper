@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e1f7c56cedf2b6349b1a0c17f783e911
+timeCreated: 1513707195
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Destroyed Planet.prefab
+  uploadId: 223781

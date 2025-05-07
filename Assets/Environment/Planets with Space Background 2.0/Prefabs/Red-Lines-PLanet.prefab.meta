@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d7f1447eb64a6a146ae815e60235311f
+timeCreated: 1513760791
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Red-Lines-PLanet.prefab
+  uploadId: 223781

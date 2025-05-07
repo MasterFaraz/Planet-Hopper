@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c38d07f4beb53f4aa6d92b217a68429
+timeCreated: 1513760938
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Violet-Planet-Clouds.prefab
+  uploadId: 223781

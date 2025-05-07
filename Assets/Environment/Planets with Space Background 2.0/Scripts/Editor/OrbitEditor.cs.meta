@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 02e6fe11cf61d26408431ac121f8ba84
+timeCreated: 1512647743
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Scripts/Editor/OrbitEditor.cs
+  uploadId: 223781

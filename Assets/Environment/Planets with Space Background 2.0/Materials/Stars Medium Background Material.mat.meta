@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 563c9e80ff8550e418f75922aad7ba08
+timeCreated: 1512890549
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Materials/Stars Medium Background
+    Material.mat
+  uploadId: 223781

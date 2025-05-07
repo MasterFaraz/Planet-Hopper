@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0903d4c589bc61442b57f1ddbf2fb973
+timeCreated: 1513761271
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103084
+  packageName: Planets with Space Background 2.0
+  packageVersion: 2.1
+  assetPath: Assets/Planets with Space Background 2.0/Prefabs/Red-Planet-With-Ice.prefab
+  uploadId: 223781
